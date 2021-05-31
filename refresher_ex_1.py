@@ -137,7 +137,7 @@ print("end of 1") # set breakpoint here
 
 
 
-# solution 2
+# solution 1
 L = [0, [], [1,2,3,4], [[5],[6,7]], [8,9,10]]
 print("L is", L)
 tmp1 = L[0] # 0
@@ -188,7 +188,7 @@ print("end of 2") # set breakpoint here
 
 
 
-
+# solution 2
 s = "Python is an interpreted, high-level, general-purpose programming language."
 sentence_list = s.split('.')
 print("there are", len(sentence_list), "sentences:")
