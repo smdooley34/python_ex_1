@@ -325,6 +325,8 @@ print("end of 4") # set breakpoint here
 
 
 # solution 4
+
+# version 1: without a function
 s = "A very long description" # a long string
 filler = "..."
 for x in range(5, 15):
@@ -336,7 +338,7 @@ for x in range(5, 15):
         print(x, abb_str)
 
 
-
+# version 2: with function
 def abbr(s, filler="...", total_width=15):
     "returns a copy of s abbreviated to total_width with filler in the middle" 
     x = total_width // 2 # integer division
@@ -346,7 +348,7 @@ def abbr(s, filler="...", total_width=15):
         return s
     return abb_str
 
-# Test
+# Test (with function)
 s = "A very long description"
 for tw in range(5, len(s)+1):
     print(tw, abbr(s, "...", tw))
