@@ -12,16 +12,7 @@
 #   abbr(s, filler="...", total_width=15) which abbreviates the string to total_width chars and uses
 #   the string filler in between them.
 #
-#     Input: abbr("A very long description", filler="...", total_width=5) => "A ver...ption"
-#     Result: Python
-#             IS
-#             an
-#             INTERPRETED
-#             high-level
-#             GENERAL-PURPOSE
-#             programming
-#             LANGUAGE
-#
+#     Example: abbr("A very long description", filler="...", total_width=5) => "A ver...ption"
 ####################################################################################################
 
 # A Function To Abbreviate A String To A Specified Number Of Characters With A Specified Filler String
