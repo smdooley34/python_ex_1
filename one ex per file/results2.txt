@@ -1,0 +1,11 @@
+----- Start Of Part 2 -----
+
+
+Input Paragraph: Python is an interpreted, high-level, general-purpose programming language. Created by Guido vanRossum and first released in 1991, Python's design philosophy emphasizes code readability withits notable use of significant whitespace. Its language constructs and object-oriented approachaim to help programmers write clear, logical code for small and large-scale projects.
+Number Of Sentences: 3
+Sentence  1 Python is an interpreted, high-level, general-purpose programming language.
+Sentence  2  Created by Guido vanRossum and first released in 1991, Python's design philosophy emphasizes code readability withits notable use of significant whitespace.
+Sentence  3  Its language constructs and object-oriented approachaim to help programmers write clear, logical code for small and large-scale projects.
+
+
+----- End Of Part 2 -----
