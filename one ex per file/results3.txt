@@ -1,0 +1,15 @@
+----- Start Of Part 3 -----
+
+
+Input Sentence: Python is an interpreted, high-level, general-purpose programming language.
+Word  1 Python
+Word  2 IS
+Word  3 an
+Word  4 INTERPRETED
+Word  5 high-level
+Word  6 GENERAL-PURPOSE
+Word  7 programming
+Word  8 LANGUAGE
+
+
+----- End Of Part 3 -----
